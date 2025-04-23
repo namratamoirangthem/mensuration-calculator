@@ -1,2 +1,5 @@
 # mensuration-calculator
-shape calculator in C Langugae
+shape calculator in C Language
+*circle
+*rectangle
+*triangle
